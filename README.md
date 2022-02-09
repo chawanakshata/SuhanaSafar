@@ -1,1 +1,2 @@
 # SuhanaSafar
+We are an Indian travel planning website which will make your trips comfy and efficient. As now everything has started to go back to normal we see alot of people planning family trips and couple trips. But to offer them the best deals we have created this site, so that they get everything in one place and at budget friendly rates. We offer our service all across India. So to find best deals at best price SuhanaSafar is the place for you!
